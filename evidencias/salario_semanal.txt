@@ -1,0 +1,12 @@
+(.venv) PS C:\Users\196677-4\Documents\ejemplo-copilot> python .\main.py
+Ingrese las horas trabajadas: 40
+Ingrese el pago por hora: 10
+El salario semanal es: 400.00
+(.venv) PS C:\Users\196677-4\Documents\ejemplo-copilot> python .\main.py
+Ingrese las horas trabajadas: 45
+Ingrese el pago por hora: 10
+El salario semanal es: 550.00
+(.venv) PS C:\Users\196677-4\Documents\ejemplo-copilot> python .\main.py
+Ingrese las horas trabajadas: 50
+Ingrese el pago por hora: 10
+El salario semanal es: 700.00 
